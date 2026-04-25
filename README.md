@@ -1,2 +1,2 @@
 # Lab8-K-Nearest-Neighbor
-KNN classification assignmet using Python and Scikit-learn
+This lab demonstrates the implementation of the K-Nearest Neighbors (KNN) algorithm using Python and Scikit-learn.
